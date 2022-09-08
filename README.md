@@ -1,10 +1,10 @@
 <p><pre align="center">
-<strong>Fred Massin / <a href="https://n.ethz.ch/~fmassin">Homepage</a> </pre></p>
+<strong>Fred Massin /</strong> <a href="https://n.ethz.ch/~fmassin">Homepage</a> </pre></p>
 
 I am maintaining, testing and developing Earthquake Early Warning algorithms at the Swiss Seismological Service SED-ETHZ. I work on how to ensure optimal EEW operation and how to combines independent EEW algorithms in a bayesian framework. I am involved into the implementation of the SED EEW framework into SeisComP and in the collaboration between the SED at ETH Zurich and the seismological monitoring services in Central America to investigate and build  prototype nation-wide EEW systems (funding provided by The Swiss Development and Cooperation Fund).
 
 
-![Metrics](https://metrics.lecoq.io/?template=classic&repositories.forks=true&languages=1&notable=1&lines=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&notable=false&notable.from=organization&notable.repositories=false&notable.indepth=false&notable.types=commit&config.timezone=Europe%2FZurich&config.display=large)
+![Metrics](https://metrics.lecoq.io/fmassin)
 
 <!--
 **FMassin/FMassin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
