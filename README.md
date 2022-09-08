@@ -3,9 +3,6 @@
 
 I am maintaining, testing and developing Earthquake Early Warning algorithms at the Swiss Seismological Service SED-ETHZ. I work on how to ensure optimal EEW operation and how to combines independent EEW algorithms in a bayesian framework. I am involved into the implementation of the SED EEW framework into SeisComP and in the collaboration between the SED at ETH Zurich and the seismological monitoring services in Central America to investigate and build  prototype nation-wide EEW systems (funding provided by The Swiss Development and Cooperation Fund).
 
-
-![Metrics](https://metrics.lecoq.io/fmassin)
-
 <!--
 **FMassin/FMassin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
